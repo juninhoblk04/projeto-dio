@@ -7,4 +7,4 @@ link [https://escolakoru.plusoftedtech.com.br/#/platform/home]
 # Cursando Inglês #
 link [https://www.gavinselitesquad.com/products/gavin-s-elite-squad]
 # Linkedin [https://www.linkedin.com/in/antonio-pereira-133627128/]
-# One Bit Code [https://cursos.onebitcode.com/area/produto/item/1001962]
+
